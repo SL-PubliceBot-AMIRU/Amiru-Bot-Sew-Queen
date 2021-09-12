@@ -1,0 +1,29 @@
+{
+  "name": "rs-sew-queen",
+  "version": "2.0.0",
+  "description": "Sew Queen.",
+  "main": "./SewQueen/sew.js",
+  "scripts": {
+    "start": "supervisor -s sew.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kingRavindu/sew/"
+  },
+  "keywords": [
+    "whatsapp",
+    "sew",
+    "queen",
+    "sewqueen",
+    "bot"
+  ],
+  "author": "Ravindu",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/kingRavindu/sew/issues"
+  },
+  "homepage": "https://github.com/kingRavindu/sew#readme",
+  "dependencies": {
+    "rs-sew-queen": "2.0.0"
+  }
+}
